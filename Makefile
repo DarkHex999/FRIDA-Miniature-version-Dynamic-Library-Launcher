@@ -1,4 +1,4 @@
-﻿# Makefile - Miniature Frida/Cheat Engine Dynamic Library Launcher
+# Makefile - Miniature Frida/Cheat Engine Dynamic Library Launcher
 
 obj-m += main.o
 
